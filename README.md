@@ -1,27 +1,50 @@
-# [CDV03] Starter CV for Software Development Role
+## Starter CV for Software Development Role
 
-Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
+Welcome to the GitHub repository for the Starter CV Project.
+This project is designed to help you create a professional and impactful resume tailored for software development roles, with a strong emphasis on front-end technologies such as React.js.
 
-## Project Overview
+The repository provides a structured approach to building a resume that highlights your technical expertise, professional experience, and educational achievements in a way that appeals to hiring managers in the tech industry.
 
-The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
+### 📌 Project Overview
 
-### Practical Steps for the Project
+The objective of this project is to produce a clear, concise, and compelling CV that not only reflects your qualifications but also demonstrates your readiness for software development positions.
 
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
+By the end of this project, you will have:
 
-### Submission Guidelines
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+A resume in a professional format.
 
-### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+A well-structured presentation of your skills, experiences, and education.
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+A document tailored specifically for opportunities in the software development field.
+
+### 🛠️ Practical Steps
+
+**Gather & Organise Information**
+
+Compile professional experiences, technical skills, educational achievements, and projects.
+
+**Contact Information**
+
+Include full name, phone number, professional email, and LinkedIn profile at the top.
+
+**Professional Experience**
+
+Highlight roles and projects relevant to software development.
+
+Emphasise contributions, responsibilities, and measurable achievements.
+
+**Technical Skills**
+
+Showcase programming languages, frameworks, and tools.
+
+Prioritise technologies that match the job requirements (e.g., Javascript).
+
+**Education & Certifications**
+
+List academic background, degrees, and certifications related to software development.
+
+
+### 📎 Link to Resume
+
+Google Docs Resume 
+[*View My Resume*](https://docs.google.com/document/d/1uYlong_n_Ir7i-sOxUb2A2Bhnrt1FWmk/edit)
